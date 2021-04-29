@@ -6,10 +6,9 @@
   "author": "ms77grz <ms77grz@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
-    "bootstrap": "^4.6.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
